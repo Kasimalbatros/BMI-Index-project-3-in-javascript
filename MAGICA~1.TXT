@@ -1,0 +1,7 @@
+Magical Trick (Magical Concepts)
+
+
+I create HTML and Javascript code.
+
+Giving HTML and Javascript code to Chatgpt I asked to Give me CSS code as per HTML
+
